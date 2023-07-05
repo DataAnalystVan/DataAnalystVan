@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DataAnalystVan
+- 👋 Hi, I’m Van
 - 👀 I’m interested in new ideas.
 - 🌱 I’m currently learning new data analytics tool.
 - 💞️ I’m looking to collaborate on big datasets.
